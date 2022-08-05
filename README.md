@@ -2,7 +2,7 @@
 
 ## Modelo Canvas
 
-![Canvas]("./assets/modelo-canvas.png)"
+![Canvas](./assets/modelo-canvas.png)
 
 ###### Autor: Pedro Henrique Peruzzi Vanderlei
 
@@ -10,13 +10,7 @@
 
 ## Diagrama de Arquitetura
 
-![Diagrama de Arquitetura v1]("./assets/arquitetura-de-solucao.png)"
-
-###### Autor: João Gabriel Ávila Ruiz
-
-![Diagrama de Arquitetura v2]("./assets/arquitetura-cliente-servidor.png)"
-
-###### Autor: Nathan Morais Adriano da Silva
+![Diagrama de Arquitetura v1](./assets/arquitetura-de-solucao-1.png) | ![Diagrama de Arquitetura v2](./assets/arquitetura-de-solucao-2.png)
 
 ---
 
