@@ -2,17 +2,13 @@
 
 ## Modelo Canvas
 
-![Canvas](./assets/modelo-canvas.png)
-
-###### Autor: Pedro Henrique Peruzzi Vanderlei
+> [![Modelo Canvas](./assets/modelo-canvas.png)]()
 
 ---
 
-## Diagrama de Arquitetura
+## Diagrama Entidade Relacionamento
 
-![Diagrama de Arquitetura v1](./assets/arquitetura-de-solucao-1.png) | ![Diagrama de Arquitetura v2](./assets/arquitetura-de-solucao-2.png)
-
----
+> [![Modelo DER](./assets/diagrama-entidade-relacionamento.jpg)]()
 
 ## Blog
 
