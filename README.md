@@ -2,26 +2,25 @@
 
 ## Modelo Canvas
 
-[![Modelo Canvas](./assets/modelo-canvas.png)]()
+[![Modelo Canvas](./assets/modelo-canvas.png)](#modelo-canvas)
 
 ---
 
 ## Diagrama Entidade Relacionamento
 
-[![Modelo DER](./assets/diagrama-entidade-relacionamento.jpg)]()
+[![Modelo DER](./assets/diagrama-entidade-relacionamento.jpg)](#diagrama-entidade-relacionamento)
 
 ---
 
 ## Arquitetura Cliente/Servidor
 
-<div> 
-    <img src="./assets/arquitetura/arquitetura-cliente-servidor-v1.png" alt="arquitetura cliente/servidor versão 1" width="450px" height="280px">
-    <img src="./assets/arquitetura/arquitetura-cliente-servidor-v2.jpg" alt="arquitetura cliente/servidor versão 2" width="450px" height="280px">
-</div>
+[![Arquitetura cliente/servidor versão 1](./assets/arquitetura/arquitetura-cliente-servidor-v1.png)](#arquitetura-clienteservidor)
+
+[![Arquitetura cliente/servidor versão 2](./assets/arquitetura/arquitetura-cliente-servidor-v2.jpg)](#arquitetura-clienteservidor)
 
 ---
 
 ## Diagrama de Caso de Uso
 
- <img src="./assets/caso-de-uso-fluxo-exercicio.jpg" alt="caso de uso" width="900px">
+[![Caso de uso](./assets/caso-de-uso-fluxo-exercicio.jpg)](#diagrama-de-caso-de-uso)
 
