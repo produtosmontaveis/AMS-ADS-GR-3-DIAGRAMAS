@@ -26,4 +26,4 @@
 
 ## Modelo ER de exercícios
 
-[![Modelo ER](./assets/Diagrama ER com entidades coloridas (notação UML) (2).png)](#modelo-er-de-exercícios)
+[![Modelo ER](./assets/Diagrama%20ER%20com%20entidades%20coloridas%20(notação%20UML)%20(2).png)](#modelo-er-de-exercícios)
