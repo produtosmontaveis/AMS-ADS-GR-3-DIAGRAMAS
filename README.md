@@ -24,3 +24,6 @@
 
 [![Caso de uso](./assets/caso-de-uso-fluxo-exercicio.jpg)](#diagrama-de-caso-de-uso)
 
+## Modelo ER de exercícios
+
+[![Modelo ER](./assets/Diagrama ER com entidades coloridas (notação UML) (2).png)](#modelo-er-de-exercícios)
