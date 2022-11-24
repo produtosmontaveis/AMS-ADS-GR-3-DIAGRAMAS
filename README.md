@@ -8,7 +8,7 @@
 
 ## Arquitetura do Sistema
 
-[![Arquitetura do Sistema](./assets/arquitetura-sistema.png)](https://raw.githubusercontent.com/produtosmontaveis/AMS-ADS-GR-3-DIAGRAMAS/main/assets/arquitetura-do-sistema.png)
+[![Arquitetura do Sistema](./assets/arquitetura-sistema.png)](https://raw.githubusercontent.com/produtosmontaveis/AMS-ADS-GR-3-DIAGRAMAS/main/assets/arquitetura-sistema.png)
 
 ## Arquitetura Cliente/Servidor
 
